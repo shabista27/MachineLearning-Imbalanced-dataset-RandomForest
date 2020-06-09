@@ -1,0 +1,68 @@
+
+Cross-validation iteration: 1 
+
+Confusion matrix:
+29 0 0 1
+5 0 0 1
+8 0 0 0
+1 1 0 1
+Class-wise accuracy
+0.9666666666666667
+0.0
+0.0
+0.3333333333333333
+
+Cross-validation iteration: 2 
+
+Confusion matrix:
+28 1 1 0
+5 0 1 0
+8 0 0 0
+1 0 2 0
+Class-wise accuracy
+0.9333333333333333
+0.0
+0.0
+0.0
+
+Cross-validation iteration: 3 
+
+Confusion matrix:
+29 0 1 0
+5 0 0 0
+4 1 4 0
+0 2 0 1
+Class-wise accuracy
+0.9666666666666667
+0.0
+0.4444444444444444
+0.3333333333333333
+
+Cross-validation iteration: 4 
+
+Confusion matrix:
+29 0 0 0
+1 2 3 0
+1 4 3 0
+1 0 1 2
+Class-wise accuracy
+1.0
+0.3333333333333333
+0.375
+0.5
+
+Cross-validation iteration: 5 
+
+Confusion matrix:
+7 9 13 0
+0 3 3 0
+0 2 6 0
+0 2 2 0
+Class-wise accuracy
+0.2413793103448276
+0.5
+0.75
+0.0
+
+Stratified K-fold cross-validation score: 0.612766
+Random-split cross-validation score (100 runs): 0.682128
